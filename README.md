@@ -1,6 +1,6 @@
 <h2 align="center">Hello there!
 
-### My name is Augusta Imo-Jack, I am a Data/ BI analyst. Kindly chech out all of my projects and skils.
+### My name is Augusta Imo-Jack, I am a Data/ BI analyst. Kindly check out all of my projects and skills.
 
 <details> 
   <summary>My Top Skills</summary>
