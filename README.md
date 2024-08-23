@@ -1,6 +1,6 @@
 <h2 align="center">Hello there!
 
-### My name is Augusta Imo-Jack, I am a Data/ BI analyst. Kindly check out all of my projects and skills.
+### My name is Augusta Imo-Jack, I am a Data/ Business Intelligence Analyst. Kindly check out all of my projects and skills.
 
 <details> 
   <summary>My Top Skills</summary>
@@ -14,7 +14,7 @@
 |     5|   Python     |
 
 </details>
-# Augusta's Portfolio
+
 
 ## Project 1:Bank Customers Complain Analysis {https://github.com/Austa8/Bank-Customer-Complaints}
 This project focused on the complaints of customers, sent to the company on financial products through different methods. The questions asked for the analysis on this project are as follows:
